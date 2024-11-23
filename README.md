@@ -5,6 +5,7 @@
 ### UI
 
 - [tailwindcss](https://tailwindcss.com/)
+- [NextUI](https://nextui.org/)
 
 ### Lint & Format
 
