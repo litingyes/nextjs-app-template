@@ -1,5 +1,7 @@
 # nextjs-app-template
 
+A template for create nextjs app project
+
 ## Dependencies
 
 ### UI

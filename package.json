@@ -2,6 +2,7 @@
   "name": "nextjs-app-template",
   "version": "0.1.0",
   "private": true,
+  "description": "A template for create nextjs app project",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
