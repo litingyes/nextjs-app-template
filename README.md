@@ -8,6 +8,7 @@ A template for create nextjs app project
 
 - [tailwindcss](https://tailwindcss.com/)
 - [NextUI](https://nextui.org/)
+- [iconify](https://iconify.design/)
 
 ### Lint & Format
 

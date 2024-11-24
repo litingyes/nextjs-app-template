@@ -1,4 +1,5 @@
 import type { Config } from 'tailwindcss'
+import { addDynamicIconSelectors } from '@iconify/tailwind'
 import { nextui } from '@nextui-org/react'
 
 export default {
@@ -12,5 +13,6 @@ export default {
   darkMode: 'class',
   plugins: [
     nextui(),
+    addDynamicIconSelectors(),
   ],
 } satisfies Config
