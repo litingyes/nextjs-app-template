@@ -1,6 +1,8 @@
 import antfu from '@antfu/eslint-config'
 import next from '@next/eslint-plugin-next'
-import tailwind from 'eslint-plugin-tailwindcss'
+
+// don't support for tailwindcss@v4
+// import tailwind from 'eslint-plugin-tailwindcss'
 
 export default antfu(
   {
@@ -11,5 +13,5 @@ export default antfu(
     },
     ignores: ['./pnpm-lock.yaml'],
   },
-  ...tailwind.configs['flat/recommended'],
+  // ...tailwind.configs['flat/recommended'],
 )
